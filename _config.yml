@@ -20,7 +20,7 @@ title                    : "GJL"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Garth J Lancaster"
-description              : "Geek thoughts"
+description              : "Nerd/Geek thoughts"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "garthjl1965/garthjl1965.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -58,9 +58,9 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
+  hide                   : true # true, false (default)
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
@@ -271,6 +271,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      show_date: true
       read_time: true
       comments: # true
       share: true

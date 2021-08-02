@@ -2,11 +2,13 @@
 layout: single
 permalink: /about/
 title: About
-author_profile: true
+author_profile: false
 classes: wide
 date: August 1, 2021
 icon: fas fa-info
 order: 4
+sidebar:
+  nav: "about"
 ---
 
 
