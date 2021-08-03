@@ -10,18 +10,6 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
-  ##- title: "Sitemap"
-  ##  url: /sitemap/
-  # - title: "CV"
-  #   url: /assets/docs/Garth_Lancaster-Resume-2021Q2.pdf
-  # - title: "Credits"
-  #   url: /credits/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
 
 about:
   - title: "About"
@@ -29,43 +17,5 @@ about:
     children:
       - title: "CV/Resume"
         url: /assets/docs/Garth_Lancaster-Resume-2021Q2.pdf
-  #   - title: "Structure"
-  #     url: /docs/structure/
-  #   - title: "Installation"
-  #     url: /docs/installation/
-  #    - title: "Upgrading"
-  #     url: /docs/upgrading/
-
   - title: "Credits"
     url: /credits/
-  # children:
-  #   - title: "Configuration"
-  #     url: /docs/configuration/
-  #   - title: "Navigation"
-  #     url: /docs/navigation/
-  #   - title: "UI Text"
-  #     url: /docs/ui-text/
-  #   - title: "Authors"
-  #     url: /docs/authors/
-  #   - title: "Layouts"
-  #     url: /docs/layouts/
-  #
-  #- title: Content
-  # children:
-  #    - title: "Working with Posts"
-  #      url: /docs/posts/
-  #    - title: "Working with Pages"
-  #      url: /docs/pages/
-  #    - title: "Working with Collections"
-  #      url: /docs/collections/
-  #    - title: "Helpers"
-  #      url: /docs/helpers/
-  #    - title: "Utility Classes"
-  #      url: /docs/utility-classes/
-  #
-  #- title: Extras
-  #  children:
-  #    - title: "Stylesheets"
-  #      url: /docs/stylesheets/
-  #    - title: "JavaScript"
-  #      url: /docs/javascript/
