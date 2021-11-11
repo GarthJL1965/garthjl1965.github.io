@@ -1,0 +1,16 @@
+---
+title:  "Welcome..."
+date:   2021-11-11 21:45:00 +1100
+---
+'Learn Go(lang)' a friend said ... so this will document the trials and tribulations (cliche ?) of a c++/C#/Ruby programmer learning Go (I'm not interested in the politics here, I'll drop the 'lang' part - if you dont like that, then simply divert your attention/vitriol elsewhere.)
+
+Since I have a background in integration / messaging / programming, and more recently DevOps, I'll probably weave around a bit. The themes you're most likely to see are:
+
+1. The building of a 'Bitcoin Client' - specific to one provider to start with.
+1. Dabblings with Docker - particularly, mqtt, HashiCorp Vault etc.
+1. 12 Factor Application & Security notes where applicable (Hence the HashiCorp Vault ref @ [2]).
+1. Possibly notes on some IOT work, hence the ref to mqtt # [2]
+1. Hopefully I'll also get started on Robotics (another reason for refreshing mqtt knowledge as it applies to ROS), I have an NVIDIA Jetson Nano and a Sparkfun Jetbot tucked away for a rainy day.  
+
+
+I'm not sure if I'll be exposing myself to/allowing Discus comments yet - let's say it's under consideration.
