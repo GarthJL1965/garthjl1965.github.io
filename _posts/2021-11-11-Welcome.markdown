@@ -1,6 +1,7 @@
 ---
 title:  "Welcome..."
 date:   2021-11-11 21:45:00 +1100
+classes: wide
 ---
 'Learn Go(lang)' a friend said ... so this will document the trials and tribulations (cliche ?) of a c++/C#/Ruby programmer learning Go (I'm not interested in the politics here, I'll drop the 'lang' part - if you dont like that, then simply divert your attention/vitriol elsewhere.)
 
